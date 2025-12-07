@@ -7,3 +7,4 @@ s = int(input("Enter first number: "))
 d = int(input("Enter first number: "))
 mul = s*d
 print("The Multiplication of s and d is",mul)
+print("This is a new line")
